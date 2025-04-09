@@ -1,0 +1,5 @@
+opencv-python==4.7.0.72
+numpy==1.24.3
+spotipy==2.22.1
+python-dotenv==1.0.0
+deepface==0.0.79
